@@ -10,6 +10,7 @@ export default function Home() {
        <input/>
        <label>Password</label>
        <input/>
+       <button> Sign in</button>
       </form>
       </div>
      
